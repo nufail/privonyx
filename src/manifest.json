@@ -2,9 +2,9 @@
 
     "manifest_version": 2,
     "name": "Privonyx",
-    "version": "1.0",
+    "version": "1.1",
 
-    "description": "Dynamic Theme for Firefox Quantum",
+    "description": "Dynamic dark theme for Firefox with a focus on privacy",
 
     "permissions": [
         "tabs",
@@ -12,7 +12,7 @@
     ],
     "applications": {
         "gecko": {
-            "strict_min_version": "57.0"
+            "strict_min_version": "60.0a1"
         }
     },
     "background": {
