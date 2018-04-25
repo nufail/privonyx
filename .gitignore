@@ -1,0 +1,10 @@
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+### web-ext ###
+web-ext-artifacts

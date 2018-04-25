@@ -1,0 +1,22 @@
+{
+
+    "manifest_version": 2,
+    "name": "Privonyx",
+    "version": "1.0",
+
+    "description": "Dynamic Theme for Firefox Quantum",
+
+    "permissions": [
+        "tabs",
+        "theme"
+    ],
+    "applications": {
+        "gecko": {
+            "strict_min_version": "57.0"
+        }
+    },
+    "background": {
+        "scripts": ["privonyx.js"]
+    }
+
+}
